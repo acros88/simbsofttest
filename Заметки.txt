@@ -1,0 +1,1 @@
+Для запуска приложения было исправлено название класса с validators.required на validators.InputRequired в файле scripts/forms.py 
